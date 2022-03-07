@@ -25,4 +25,4 @@ https://xd.adobe.com/view/fe486f7c-388b-4ad7-9c1f-dd1a1c52e444-ab1b/?fullscreen
 
 Conclusiones:
 
-Nuevas herramientas que hubo que aprender rápidamenta: canva, miro, xd adobe
+Nuevas herramientas que hubo que aprender rápidamenta: canva, miro, xd adobe, heflo
